@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Login>21</Login>
+    <Password>19410212215111233119891703916020115525510316</Password>
+  </Person>
+  <Person>
+    <Login />
+    <Password>2122914021714301784233128915223624866126</Password>
+  </Person>
+</ArrayOfPerson>

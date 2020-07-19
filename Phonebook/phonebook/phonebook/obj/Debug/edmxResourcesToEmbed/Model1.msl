@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище pbDBModelContainer" CdmEntityContainer="pbDBEntities">
+    <EntitySetMapping Name="Abonent">
+      <EntityTypeMapping TypeName="pbDBModel.Abonent">
+        <MappingFragment StoreEntitySet="Abonent">
+          <ScalarProperty Name="Id_abonent" ColumnName="Id_abonent" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="otchestvo" ColumnName="otchestvo" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="Id_village" ColumnName="Id_village" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="pbDBModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Id_city" ColumnName="Id_city" />
+          <ScalarProperty Name="City1" ColumnName="City" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Offical_phone">
+      <EntityTypeMapping TypeName="pbDBModel.Offical_phone">
+        <MappingFragment StoreEntitySet="Offical_phone">
+          <ScalarProperty Name="Id_company" ColumnName="Id_company" />
+          <ScalarProperty Name="name_company" ColumnName="name_company" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="department" ColumnName="department" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="Id_village" ColumnName="Id_village" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Village">
+      <EntityTypeMapping TypeName="pbDBModel.Village">
+        <MappingFragment StoreEntitySet="Village">
+          <ScalarProperty Name="Id_village" ColumnName="Id_village" />
+          <ScalarProperty Name="village1" ColumnName="village" />
+          <ScalarProperty Name="id_city" ColumnName="id_city" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

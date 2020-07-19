@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище pbDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Abonent">
+    <Key>
+      <PropertyRef Name="Id_abonent" />
+    </Key>
+    <Property Name="Id_abonent" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="surname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="otchestvo" Type="nvarchar" MaxLength="50" />
+    <Property Name="address" Type="ntext" Nullable="false" />
+    <Property Name="phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Id_village" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="Id_city" />
+    </Key>
+    <Property Name="Id_city" Type="int" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Offical_phone">
+    <Key>
+      <PropertyRef Name="Id_company" />
+    </Key>
+    <Property Name="Id_company" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name_company" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="address" Type="text" Nullable="false" />
+    <Property Name="department" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Id_village" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Village">
+    <Key>
+      <PropertyRef Name="Id_village" />
+    </Key>
+    <Property Name="Id_village" Type="int" Nullable="false" />
+    <Property Name="village" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="id_city" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_dbo_Abonent_dbo_Village_Id_village">
+    <End Role="Village" Type="Self.Village" Multiplicity="1" />
+    <End Role="Abonent" Type="Self.Abonent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Village">
+        <PropertyRef Name="Id_village" />
+      </Principal>
+      <Dependent Role="Abonent">
+        <PropertyRef Name="Id_village" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Offical_phone_dbo_Village_Id_village">
+    <End Role="Village" Type="Self.Village" Multiplicity="1" />
+    <End Role="Offical_phone" Type="Self.Offical_phone" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Village">
+        <PropertyRef Name="Id_village" />
+      </Principal>
+      <Dependent Role="Offical_phone">
+        <PropertyRef Name="Id_village" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Village_dbo_City_Id_city">
+    <End Role="City" Type="Self.City" Multiplicity="1" />
+    <End Role="Village" Type="Self.Village" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="Id_city" />
+      </Principal>
+      <Dependent Role="Village">
+        <PropertyRef Name="id_city" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище pbDBModelContainer">
+    <EntitySet Name="Abonent" EntityType="Self.Abonent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="City" EntityType="Self.City" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Offical_phone" EntityType="Self.Offical_phone" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Village" EntityType="Self.Village" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_Abonent_dbo_Village_Id_village" Association="Self.FK_dbo_Abonent_dbo_Village_Id_village">
+      <End Role="Village" EntitySet="Village" />
+      <End Role="Abonent" EntitySet="Abonent" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Offical_phone_dbo_Village_Id_village" Association="Self.FK_dbo_Offical_phone_dbo_Village_Id_village">
+      <End Role="Village" EntitySet="Village" />
+      <End Role="Offical_phone" EntitySet="Offical_phone" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Village_dbo_City_Id_city" Association="Self.FK_dbo_Village_dbo_City_Id_city">
+      <End Role="City" EntitySet="City" />
+      <End Role="Village" EntitySet="Village" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

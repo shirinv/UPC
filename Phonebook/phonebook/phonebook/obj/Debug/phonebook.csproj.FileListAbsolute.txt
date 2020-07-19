@@ -1,0 +1,177 @@
+H:\ПРАКТИКА\phonebook\phonebook\bin\Debug\phonebook.exe.config
+H:\ПРАКТИКА\phonebook\phonebook\bin\Debug\phonebook.exe
+H:\ПРАКТИКА\phonebook\phonebook\bin\Debug\phonebook.pdb
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\MainWindow.baml
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\MainWindow.g.cs
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\App.g.cs
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.g.resources
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.exe
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook.pdb
+H:\ПРАКТИКА\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+H:\ПРАКТИКА\phonebook\phonebook\bin\Debug\pbDB.mdf
+H:\ПРАКТИКА\phonebook\phonebook\bin\Debug\pbDB_log.ldf
+C:\Users\429282-28\Desktop\phonebook\phonebook\bin\Debug\phonebook.exe.config
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.exe
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.pdb
+C:\Users\429282-28\Desktop\phonebook\phonebook\bin\Debug\pbDB.mdf
+C:\Users\429282-28\Desktop\phonebook\phonebook\bin\Debug\pbDB_log.ldf
+C:\Users\429282-28\Desktop\phonebook\phonebook\bin\Debug\phonebook.exe
+C:\Users\429282-28\Desktop\phonebook\phonebook\bin\Debug\phonebook.pdb
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\MainWindow.baml
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\Window1.baml
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\MainWindow.g.cs
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\Window1.g.cs
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\App.g.cs
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.g.resources
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+C:\Users\429282-28\Desktop\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+H:\2802\phonebook\phonebook\obj\Debug\MainWindow.baml
+H:\2802\phonebook\phonebook\obj\Debug\Window1.baml
+H:\2802\phonebook\phonebook\obj\Debug\MainWindow.g.cs
+H:\2802\phonebook\phonebook\obj\Debug\Window1.g.cs
+H:\2802\phonebook\phonebook\obj\Debug\App.g.cs
+H:\2802\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.g.resources
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.exe
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.pdb
+H:\2802\phonebook\phonebook\bin\Debug\phonebook.exe.config
+H:\2802\phonebook\phonebook\bin\Debug\phonebook.exe
+H:\2802\phonebook\phonebook\bin\Debug\phonebook.pdb
+H:\2802\phonebook\phonebook\bin\Debug\EntityFramework.dll
+H:\2802\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.dll
+H:\2802\phonebook\phonebook\bin\Debug\EntityFramework.xml
+H:\2802\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.xml
+H:\2802\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+H:\2802\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\View\MainWindow.baml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\Resources\Icons.baml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\View\Window1.baml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\App.baml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\View\MainWindow.g.cs
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\View\Window1.g.cs
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\App.g.cs
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.g.resources
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\pbDB.mdf
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\pbDB_log.ldf
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\phonebook.exe.config
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\phonebook.exe
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\phonebook.pdb
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\ControlzEx.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\EntityFramework.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\MahApps.Metro.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\ControlzEx.pdb
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\EntityFramework.xml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\MahApps.Metro.pdb
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\MahApps.Metro.xml
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.exe
+C:\Users\swift\OneDrive\Рабочий стол\phonebook\phonebook\obj\Debug\phonebook.pdb
+D:\LAST PRACTICA\phonebook\phonebook\bin\Debug\phonebook.exe.config
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.exe
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.pdb
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\MainWindow.baml
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\Resources\Icons.baml
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\Resources\IconsNonShared.baml
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\Window1.baml
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\App.baml
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\MainWindow.g.cs
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\Window1.g.cs
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\App.g.cs
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.g.resources
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+D:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csprojFakesResolveAssemblyReference.cache
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\pbDB.mdf
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\pbDB_log.ldf
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\phonebook.exe.config
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\phonebook.exe
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\phonebook.pdb
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\ControlzEx.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\EntityFramework.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\MahApps.Metro.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\System.Windows.Interactivity.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\ControlzEx.pdb
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\EntityFramework.xml
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.xml
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\MahApps.Metro.pdb
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\MahApps.Metro.xml
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\ru\EntityFramework.resources.dll
+H:\LAST PRACTICA\phonebook\phonebook\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csprojResolveAssemblyReference.cache
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\MainWindow.baml
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\Resources\Icons.baml
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\Resources\IconsNonShared.baml
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\Window1.baml
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\App.baml
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\MainWindow.g.cs
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\View\Window1.g.cs
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\App.g.cs
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.g.resources
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.Cache
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.exe
+H:\LAST PRACTICA\phonebook\phonebook\obj\Debug\phonebook.pdb
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\pbDB.mdf
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\pbDB_log.ldf
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\phonebook.exe.config
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\phonebook.exe
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\phonebook.pdb
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\ControlzEx.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\EntityFramework.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\MahApps.Metro.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\System.Windows.Interactivity.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\ControlzEx.pdb
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\EntityFramework.xml
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\MahApps.Metro.pdb
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\MahApps.Metro.xml
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\ru\EntityFramework.resources.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\UPK\Phonebook\phonebook\phonebook\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.csprojAssemblyReference.cache
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\View\MainWindow.baml
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\Resources\Icons.baml
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\Resources\IconsNonShared.baml
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\View\Window1.baml
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\App.baml
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\View\MainWindow.g.cs
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\View\Window1.g.cs
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\App.g.cs
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook_Content.g.cs
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook_MarkupCompile.cache
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.g.resources
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.Properties.Resources.resources
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.csproj.GenerateResource.cache
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.csproj.CoreCompileInputs.cache
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.csproj.CopyComplete
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.exe
+D:\UPK\Phonebook\phonebook\phonebook\obj\Debug\phonebook.pdb
